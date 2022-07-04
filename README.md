@@ -12,6 +12,8 @@ git submodule init
 git submodule update
 ```
 
+Then, the different error values are computed with
+
 ```bash
 python prepare_data.py <data> <generated-data>
 ```
