@@ -1,0 +1,4 @@
+__pycache__
+*.pt
+data/*/*.png
+data/*/gen-\[*.csv
