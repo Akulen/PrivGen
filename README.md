@@ -53,4 +53,4 @@ python eval_irt.py <data> <generated-data>
 
 ## Evaluate Reidentification AUC
 
-TODO
+TODO: See `notebooks/Attack.ipynb` for the current code
