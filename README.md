@@ -2,7 +2,7 @@
 RNN code used for "Privacy-Preserving Synthetic Educational Data Generation"
 
 - Read the [article](https://hal.archives-ouvertes.fr/hal-03715416) published at EC-TEL 2022
-- Check the [slides](jjv.ie/slides/ectel2022.pdf)
+- Check the [slides](https://jjv.ie/slides/ectel2022.pdf)
 
 To cite the paper, please use:
 
